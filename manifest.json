@@ -1,0 +1,26 @@
+{
+    "name": "Reutical App",
+    "short_name": "Reutical App",
+    "description": "Creator Operations Platform — tools that unify the technical and financial management of independent SaaS projects.",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#4D4D3D",
+    "theme_color": "#4D4D3D",
+    "icons": [
+        {
+            "src": "/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "orientation": "portrait",
+    "prefer_related_applications": false
+}
